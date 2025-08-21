@@ -2,10 +2,6 @@
 
 A full-stack web application that provides detailed Pokémon data and simulates turn-based battles between any two Pokémon. Built with a FastAPI backend and an interactive frontend featuring animations and sound effects.
 
-![Pokémon Battle Arena](https://img.shields.io/badge/Pokémon-Battle%20Arena-red?style=for-the-badge&logo=pokemon)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ## ✨ Features
 
 - **Comprehensive Pokémon Data**: Fetches and displays detailed information about any Pokémon including stats, types, abilities, and moves
